@@ -1,1 +1,1 @@
-# voting-application-of-django-mohamed-sameer-820621104051-AEC-
+# voting application using Django Framework-Mohamed Sameer(4051,AEC)
